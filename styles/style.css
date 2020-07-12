@@ -1,0 +1,60 @@
+body{
+	background-color:#f3f1ff;
+	font-family: 'Roboto', sans-serif;
+}
+.bg-color{
+	background-color:#562EFF;
+}
+.navbar img{
+	width:40px;
+}
+.player img{
+	width:56px;
+}
+main{
+	width:870px;
+}
+.botm-line{
+	Width:807px;
+}
+.blog img{
+	width:177px;
+	height:117;
+}
+.blog{
+	padding:15px;
+}
+h5{
+	font-weight:700;
+	padding-bottom:2px;
+}
+h6{
+	padding-top:7px;
+}
+span{
+	color:blue;
+}
+.icon-star img{
+	width:15px;
+}
+.icon-star{
+	border:none;
+}
+.icon-clock img{
+	width:15px;
+}
+.icon-clock{
+	background-color:#df00005c;
+	border-radius:10px;
+	border:none;
+}
+.card{
+	border:none;
+	box-shadow:5px 5px 10px lightgray;
+	border-radius:10px;
+	padding:8px;
+}
+footer{
+	color:#ddd;
+	text-align:center;
+}
