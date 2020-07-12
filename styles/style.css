@@ -7,6 +7,11 @@ body{
 }
 .navbar img{
 	width:40px;
+	transition:border .5s;
+}
+.navbar img:hover {
+	border:2px solid blue;
+	border-radius:50%;
 }
 .player img{
 	width:56px;
